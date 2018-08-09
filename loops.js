@@ -20,9 +20,9 @@ function whileLoop(n) {
 function incrementVariable() {
   i = i + 1;
 }
-
+var i = 5
 function doWhileLoop(array) {
-  var i = 4
+
   do {
     array.pop()
   }
